@@ -1,4 +1,4 @@
-package com.example.TrainingSession;
+package com.example.wagonsmap;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

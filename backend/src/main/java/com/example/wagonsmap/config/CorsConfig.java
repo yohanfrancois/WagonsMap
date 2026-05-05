@@ -1,4 +1,4 @@
-package com.example.TrainingSession.config;
+package com.example.wagonsmap.config;
 
 import org.jspecify.annotations.NonNull;
 import org.springframework.context.annotation.Bean;
